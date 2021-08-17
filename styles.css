@@ -247,6 +247,10 @@ p{
 	.banner_content{
 		margin-top: 35px;
 	}
+	
+		.diff_services{
+		padding: 2rem;
+	 }
 
 }
 
